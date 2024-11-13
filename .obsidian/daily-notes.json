@@ -1,0 +1,6 @@
+{
+  "folder": "memos",
+  "autorun": true,
+  "template": "欢迎",
+  "format": "YYYY-MM-DD-HH-mm-ss"
+}
