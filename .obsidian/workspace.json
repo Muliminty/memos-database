@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memos/2021-11-12-22-10-32.md",
+                "file": "欢迎.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2021-11-12-22-10-32"
+              "title": "欢迎"
             }
           }
         ]
@@ -162,16 +162,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5561f488fdadcf96",
+  "active": "60b1ed9c40962909",
   "lastOpenFiles": [
+    "memos/2021-11-12-22-10-32.md",
+    "memos/2024-11-13-11-44-04.md",
+    "memos/2024-11-13-11-44-06.md",
+    "memos/2024-11-17-18-18-36.md",
+    "欢迎.md",
+    "memos/2024-11-17-18-17-07.md",
     "imgs/Pasted image 20241117181511.png",
     "imgs",
-    "欢迎.md",
-    "memos/2021-11-12-22-10-32.md",
     "README.md",
-    "memos/2024-11-13-11-44-06.md",
     "memos/2024-11-17-18-13-07.md",
-    "memos/2024-11-13-11-44-04.md",
     "memos/2024-11-13-11-36-39.md",
     "imgs/Pasted image 20241113113355.png",
     "imgs/Pasted image 20241113113332.png",
