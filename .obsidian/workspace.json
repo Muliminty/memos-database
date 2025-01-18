@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memos/2024-08-13-09-11-05.md",
+                "file": "memos/2025-01-07-21-05-50.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-08-13-09-11-05"
+              "title": "2025-01-07-21-05-50"
+            }
+          },
+          {
+            "id": "77b3f3da18214e52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "memos/2024-01-01-00-00-00.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-01-01-00-00-00"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,9 +177,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "78e2b90430293e3e",
+  "active": "77b3f3da18214e52",
   "lastOpenFiles": [
-    "memos/2021-11-12-22-10-32.md",
+    "imgs/mmexport1704044863476.jpg",
+    "memos/2025-01-07-21-05-50.md",
+    "memos/2024-01-01-00-00-00.md",
+    "memos/2024-11-12-22-10-32.md",
     "memos/2024-08-13-09-11-05.md",
     "memos/2024-11-13-11-44-06.md",
     "memos/2024-11-13-11-44-04.md",
